@@ -1,2 +1,4 @@
 # MusicBrainz_Project
-Connecting to MusicBrainz to gather metadata about music to train ML and DL models
+Data-603 Project
+
+Connecting to MusicBrainz to gather metadata about music
