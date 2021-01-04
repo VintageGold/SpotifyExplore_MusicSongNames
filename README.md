@@ -1,4 +1,4 @@
-<img src="UMBC_Energy/Images/UMBC_Graduate_School.jpg" width="150"> 
+<img src="Images/UMBC_Graduate_School.jpg" width="150"> 
 
 # MusicBrainz Database Project
 Data-603 Project
