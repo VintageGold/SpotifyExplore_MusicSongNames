@@ -11,5 +11,5 @@ db.utils("/FileStore/tables/adam_goldstein/MusicDataBase_SpotifyFeatures.csv)
 Big Thank you to the githubs below:
 https://github.com/metabrainz/musicbrainz-docker
 
-https://github.com/TheComeUpCode/Spot...
+https://github.com/TheComeUpCode/SpotifyGeneratePlaylist
 
