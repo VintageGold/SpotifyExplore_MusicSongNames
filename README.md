@@ -13,5 +13,5 @@ Big Thank you to the githubs below:
 
 <li>https://github.com/TheComeUpCode/SpotifyGeneratePlaylist</li>
 
-<a src="Presentation.html"</a.
+<a src="Presentation.html"</a>
 
