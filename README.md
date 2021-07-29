@@ -5,6 +5,7 @@ Data-603 Project
 
 Music Brainz database documentation
 <li> https://musicbrainz.org/doc/MusicBrainz_Database/Schema</li>
+<br>
 
 Data is found:
 db.utils("/FileStore/tables/adam_goldstein/MusicBrainz_historylistens.json)
