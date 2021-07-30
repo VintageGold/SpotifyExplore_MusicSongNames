@@ -1,8 +1,5 @@
 <img src="Images/UMBC_Graduate_School.jpg" width="150"> 
 
-# MusicBrainz Database Project
-Data-603 Project
-
 # Project Focus
 This project aims to help users explore new songs by leveraging the user's currently played Spotify track to find synonyms of the first word in the song. Then the project looks up the word and synonyms in MusicBrainz's database.  With what song names are returned a graph representation is created for interactive exploring!
 
