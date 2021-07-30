@@ -13,19 +13,19 @@ https://www.thefreedictionary.com/words-containing-lease
 
 <img src="Images/Spotify_Explore Music_SongNames.png">
 
-# Music Brainz database documentation
-<li> https://musicbrainz.org/doc/MusicBrainz_Database/Schema</li>
-<br>
+
 
 # Data is found:
 db.utils("/FileStore/tables/adam_goldstein/MusicBrainz_historylistens.json)
 
 db.utils("/FileStore/tables/adam_goldstein/MusicDataBase_SpotifyFeatures.csv)
 
-Thank you to the githubs below:
+# Resources to Thank:
 <li>https://github.com/metabrainz/musicbrainz-docker</li>
 
 <li>https://github.com/TheComeUpCode/SpotifyGeneratePlaylist</li>
+
+<li> https://musicbrainz.org/doc/MusicBrainz_Database/Schema</li>
 
 
 
