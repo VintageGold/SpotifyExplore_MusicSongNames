@@ -9,7 +9,7 @@ In the example below the user is listening to "Get on the Good Foot" by James Br
 
 https://www.thefreedictionary.com/words-containing-lease
 
-
+<img src="Images/Spotify Explore Music through Song Names.png">
 
 Music Brainz database documentation
 <li> https://musicbrainz.org/doc/MusicBrainz_Database/Schema</li>
