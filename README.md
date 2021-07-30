@@ -3,6 +3,10 @@
 # MusicBrainz Database Project
 Data-603 Project
 
+This project takes the user's currently played Spotify track finds synonyms to the first word in the song and then looks up the word and synonyms in MusicBrainz database to return a graph representation of the key word and synonyms to explore new songs!
+
+<img src="Images/Spotify Explore Music through Song Names">
+
 Music Brainz database documentation
 <li> https://musicbrainz.org/doc/MusicBrainz_Database/Schema</li>
 <br>
